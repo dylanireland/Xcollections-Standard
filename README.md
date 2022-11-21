@@ -39,4 +39,4 @@ Developers should remember to perform due diligence when working with this metho
 
 ## Remarks
 
-The Metadata Method is not possible for those 
+The Metadata Method is not possible for those that utilize IPFS hases for metadata retreival.
