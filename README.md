@@ -23,7 +23,7 @@ Only the owner of the base NFT may burn their NFT unless the [burn flag is provi
 
 ***
 
-Developers should remember to perform due diligence when working with this method, as running the Xcollections software requires the provision of the private key that controls their projects mints.
+Developers should remember to perform due diligence when working with this method, as running the Xcollections software requires the provision of the private key that controls their project's mints.
 
 ## Metadata
 
